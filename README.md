@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulmwashE&bg_color=0d1117&color=fdd835&line=fbc02d&point=fff59d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulmwash&bg_color=0d1117&color=fdd835&line=fbc02d&point=fff59d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **paulmwash/paulmwash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
