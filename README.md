@@ -50,7 +50,7 @@ Backend & Systems Software Engineering Student at **Kirinyaga University** (Nair
 
 ---
 
-### Open Source Contributions
+### 🌐 Open Source Contributions
 
 - **[karyontech/karyon](https://github.com/karyontech/karyon)** — Added client request timeout handling (`set_timeout`) for QUIC `call` and `subscribe` RPC operations along with async integration tests ([PR #158](https://github.com/karyontech/karyon/pull/158), closes [#155](https://github.com/karyontech/karyon/issues/155))
 
