@@ -13,7 +13,7 @@ Backend & Systems Software Engineering Student at **Kirinyaga University** (Nair
 - 🧠 Focused on backend systems engineering, network protocols (TCP/UDP, WebSockets), and containerized deployments
 - 🐧 Daily-driving **Kali Linux** with a terminal-first workflow
 - 📜 Certified in **Go, Linux, Git, Docker** (Boot.dev) and **Networking Basics** (Cisco Networking Academy)
-- 🎯 Open to **Backend Software Engineering** and **Forward Deployed Engineering** internships
+- 🎯 Open to **Backend Software Engineering** internships
 
 ---
 
