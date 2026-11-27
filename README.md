@@ -52,7 +52,8 @@ Backend & Systems Software Engineering Student at **Kirinyaga University** (Nair
 
 ### 🌐 Open Source Contributions
 
-- **[karyontech/karyon](https://github.com/karyontech/karyon)** — Added client request timeout handling (`set_timeout`) for QUIC `call` and `subscribe` RPC operations along with async integration tests ([PR #158](https://github.com/karyontech/karyon/pull/158), closes [#155](https://github.com/karyontech/karyon/issues/155))
+- **[karyontech/karyon](https://github.com/karyontech/karyon)** *(Rust)* — Implemented client `set_timeout` handling across QUIC RPC calls and subscriptions ([PR #158](https://github.com/karyontech/karyon/pull/158)).
+- **[healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)** *(Python / Django)* — Implemented `PATCH` HTTP method support across webhook forms, notification transport, templates, and strict `mypy` unit tests ([Branch](https://github.com/paulmwash/healthchecks/tree/add-webhook-patch-method) · [Issue #1372](https://github.com/healthchecks/healthchecks/issues/1372)).
 
 ### 📊 GitHub Stats
 
