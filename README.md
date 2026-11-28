@@ -1,6 +1,6 @@
 # Hi, I'm Paul Njoroge 👋
 
-Backend & Systems Software Engineering Student at **Kirinyaga University** (Nairobi, Kenya) | Building reliable distributed services, APIs, and Android applications.
+**Backend & Systems Software Engineering Student** at **Kirinyaga University** (Nairobi, Kenya) | Building reliable distributed services, network protocols, and Android applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Njoroge-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-njoroge-736981451)
 [![Portfolio](https://img.shields.io/badge/Portfolio-pauldurov.me-111827?style=flat&logo=cloudflare&logoColor=white)](https://pauldurov.me)
@@ -9,11 +9,11 @@ Backend & Systems Software Engineering Student at **Kirinyaga University** (Nair
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **[KConnect](https://github.com/paulmwash/KConnect)** (Go backend service), **[MeetMe](https://github.com/paulmwash/MeetMe)** (Django web platform), and **[wire-rs](https://github.com/paulmwash/wire-rs)** (Rust networking & protocols)
-- 🧠 Focused on backend systems engineering, network protocols (TCP/UDP, WebSockets, QUIC), and containerized deployments
-- 🐧 Daily-driving **Kali Linux** with a terminal-first workflow
-- 📜 Certified in **Go, Linux, Git, Docker** (Boot.dev) and **Networking Basics** (Cisco Networking Academy)
-- 🎯 Open to **Backend Software Engineering** internships
+- 🔭 Building **[KConnect](https://github.com/paulmwash/KConnect)** (Go backend service), **[wire-rs](https://github.com/paulmwash/wire-rs)** (Rust networking & protocols), and **[MeetMe](https://github.com/paulmwash/MeetMe)** (Django web platform)
+- 🧠 Focused on backend systems engineering, raw network protocols (TCP/UDP, WebSockets, QUIC), and containerized deployments
+- 🐧 Daily-driving **Kali Linux** with a terminal-first workflow (`Neovim`, `VS Code`, `Docker`)
+- 📜 Certified in **[Go](https://www.boot.dev/u/paulmwash)**, **[Linux](https://www.boot.dev/u/paulmwash)**, **[Git](https://www.boot.dev/u/paulmwash)**, and **[Docker](https://www.boot.dev/u/paulmwash)** (Boot.dev) + **[Networking Basics](https://www.credly.com/badges/1c493d7d-06fe-425f-a258-94d3eff4c8fd)** (Cisco Networking Academy)
+- 🎯 Open to **Backend & Systems Software Engineering** internships
 
 ---
 
@@ -31,4 +31,9 @@ Backend & Systems Software Engineering Student at **Kirinyaga University** (Nair
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST APIs](
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Infrastructure, DevOps & Networking**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](
