@@ -9,8 +9,8 @@ Backend & Systems Software Engineering Student at **Kirinyaga University** (Nair
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **[KConnect](https://github.com/paulmwash/KConnect)** (Go backend service) and **[MeetMe](https://github.com/paulmwash/MeetMe)** (Django web platform)
-- 🧠 Focused on backend systems engineering, network protocols (TCP/UDP, WebSockets), and containerized deployments
+- 🔭 Currently building **[KConnect](https://github.com/paulmwash/KConnect)** (Go backend service), **[MeetMe](https://github.com/paulmwash/MeetMe)** (Django web platform), and **[wire-rs](https://github.com/paulmwash/wire-rs)** (Rust networking & protocols)
+- 🧠 Focused on backend systems engineering, network protocols (TCP/UDP, WebSockets, QUIC), and containerized deployments
 - 🐧 Daily-driving **Kali Linux** with a terminal-first workflow
 - 📜 Certified in **Go, Linux, Git, Docker** (Boot.dev) and **Networking Basics** (Cisco Networking Academy)
 - 🎯 Open to **Backend Software Engineering** internships
@@ -21,6 +21,7 @@ Backend & Systems Software Engineering Student at **Kirinyaga University** (Nair
 
 **Languages**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -30,32 +31,4 @@ Backend & Systems Software Engineering Student at **Kirinyaga University** (Nair
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Infrastructure, DevOps & Networking**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88E5?style=for-the-badge&logo=caddy&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-- **[KConnect](https://github.com/paulmwash/KConnect)** — Backend service built in Go focusing on clean HTTP routing, concurrency, and real-time communication.
-- **[MeetMe](https://github.com/paulmwash/MeetMe)** — Full-stack social/scheduling web application built with Python and Django.
-- **[Personal Portfolio](https://pauldurov.me)** — Personal developer site deployed on Cloudflare Pages.
-
----
-
-### 🌐 Open Source Contributions
-
-- **[karyontech/karyon](https://github.com/karyontech/karyon)** *(Rust)* — Implemented client `set_timeout` handling across QUIC RPC calls and subscriptions ([PR #158](https://github.com/karyontech/karyon/pull/158)).
-- **[healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)** *(Python / Django)* — Implemented `PATCH` HTTP method support across webhook forms, notification transport, templates, and strict `mypy` unit tests ([Branch](https://github.com/paulmwash/healthchecks/tree/add-webhook-patch-method) · [Issue #1372](https://github.com/healthchecks/healthchecks/issues/1372)).
-
-### 📊 GitHub Stats
-
-![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulmwash&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmwash&layout=compact&theme=tokyonight&hide_border=true)
+![REST APIs](
