@@ -47,4 +47,21 @@
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[KConnect](https://github.com/paulmwash/KConnect)**
+| **[KConnect](https://github.com/paulmwash/KConnect)** | `Go` · `WebSockets` | Backend service focusing on clean HTTP routing, concurrency, and real-time communication. |
+| **[wire-rs](https://github.com/paulmwash/wire-rs)** | `Rust` · `TCP/UDP` | Systems and network protocol experiments exploring raw sockets, framing, and concurrency. |
+| **[MeetMe](https://github.com/paulmwash/MeetMe)** | `Python` · `Django` | Full-stack social and scheduling web platform with modular user and event management. |
+| **[Portfolio](https://pauldurov.me)** | `Cloudflare Pages` | Personal developer portfolio and engineering showcase. |
+
+---
+
+### 🌐 Open Source Contributions
+
+- **[karyontech/karyon](https://github.com/karyontech/karyon)** *(Rust)* — Implemented client `set_timeout` handling across QUIC RPC calls and subscriptions ([PR #158](https://github.com/karyontech/karyon/pull/158)).
+- **[healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)** *(Python / Django)* — Added `PATCH` HTTP method support across webhook forms, notification transport, templates, and strict `mypy` unit tests ([Branch](https://github.com/paulmwash/healthchecks/tree/add-webhook-patch-method) · [Issue #1372](https://github.com/healthchecks/healthchecks/issues/1372)).
+
+---
+
+### 📊 GitHub Stats
+
+![Paul's GitHub Stats](https://github-stats-extended.vercel.app/api?username=paulmwash&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=paulmwash&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
